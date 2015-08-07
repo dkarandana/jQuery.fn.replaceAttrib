@@ -15,3 +15,14 @@ $.fn.replaceAttrib = function( data , removeOriginal ){
      }
   });
 };
+
+
+/*
+ var replaceTo = {
+	  'data-invalid':'invalid',
+	  'data-invalid2':'invalid2'
+	};
+
+$ele.replaceAttrib( replaceTo ,true); 
+
+*/
